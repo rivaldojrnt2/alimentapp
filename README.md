@@ -1,6 +1,6 @@
-# flutter_app
+# AlimentApp
 
-A new Flutter project.
+Aplicativo da Unidade 4 - Documento de Programa e Execucao de Software.
 
 ## Getting Started
 
